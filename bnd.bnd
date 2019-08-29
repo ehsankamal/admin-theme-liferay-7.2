@@ -1,0 +1,5 @@
+Bundle-Name: admin-theme-contributer
+Bundle-SymbolicName: admin.theme.contributer
+Bundle-Version: 1.0.0
+Liferay-Theme-Contributor-Type: admin-theme-contributer
+Web-ContextPath: /admin-theme-contributer-theme-contributor
